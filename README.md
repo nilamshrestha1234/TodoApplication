@@ -37,7 +37,7 @@ clone the project( https://github.com/nilamshrestha1234/TodoApplication.git)
 # Screenshots of application
 | Recycle View| Add Note | Edit Note |
 | --- | --- | --- |
-| <img src="recycleview.png" width="300"> | <img src="recycleview.png" width="300"> | <img src="editnote.png" width="300"> |
+| <img src="recycleview.png" width="300"> | <img src="images/addnote.png" width="300"> | <img src="images/editnote.png" width="300"> |
 
 # Guideline Using the application
 - Add Todo: Click on the floating button and add list
